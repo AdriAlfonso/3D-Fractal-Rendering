@@ -1,2 +1,2 @@
 # 3D-Fractal-Rendering
-This repository contains a paper which explores generation and visualization of various techniques that involve fractal rendering.
+This repository contains a paper that delves into the generation and visualization of various techniques used in fractal rendering. The paper explores the intricate world of fractals, discussing topics such as Perlin noise, Quaternion Julia Sets, IFS Fractals, and L-systems. It provides in-depth explanations and practical implementations, allowing readers to understand and experiment with these mesmerizing fractal algorithms.
